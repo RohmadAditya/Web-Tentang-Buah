@@ -1,0 +1,1 @@
+tampilan navigasi dengan link yang terhubung dengan setiap pages/halaman buah,dan kontak(belum ada fungsi)
