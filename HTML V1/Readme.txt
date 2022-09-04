@@ -1,0 +1,1 @@
+hanya tampil berupa navigasi tanpa link penghubung dengan definisi buah dibawahnya
